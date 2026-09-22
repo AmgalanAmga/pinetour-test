@@ -1,0 +1,19 @@
+.hero {
+  position: relative;
+  width: 400px;
+  height: 250px;
+  border: 1px solid red;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.hero-text {
+  position: absolute;
+  left: 30px;
+  bottom: 10px;
+  color: red;
+}
